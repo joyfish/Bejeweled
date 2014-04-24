@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bao_name_0</key>
+	<string>烤肉钉</string>
+	<key>bao_des_0</key>
+	<string>圣树小时候，一个巨人
+在这里藏着他的烤肉
+钉（依稀留有未啃干
+净的肉）</string>
+	<key>bao_from_0</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_1</key>
+	<string>大金币</string>
+	<key>bao_des_1</key>
+	<string>你发现了绿林商店的金
+库！</string>
+	<key>bao_from_1</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_2</key>
+	<string>钱包</string>
+	<key>bao_des_2</key>
+	<string>作者的私房钱藏！能换
+很多金币</string>
+	<key>bao_from_2</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_3</key>
+	<string>活力快线</string>
+	<key>bao_des_3</key>
+	<string>喝下之后你感觉充满了
+能量，并且味道很不错</string>
+	<key>bao_from_3</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_4</key>
+	<string>大宝箱</string>
+	<key>bao_des_4</key>
+	<string>装的满满的都是道具，
+满满的都是幸福感！</string>
+	<key>bao_from_4</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_5</key>
+	<string>快递员包裹</string>
+	<key>bao_des_5</key>
+	<string>你拾回了快递先生遗失
+的包裹，作为回报他留
+下了一个道具</string>
+	<key>bao_from_5</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_6</key>
+	<string>代码碎片</string>
+	<key>bao_des_6</key>
+	<string>wilford的代码碎片，
+上面写满了看不懂的符
+号，感觉像开挂了一样</string>
+	<key>bao_from_6</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_7</key>
+	<string>画册</string>
+	<key>bao_des_7</key>
+	<string>wilford的肖像</string>
+	<key>bao_from_7</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_8</key>
+	<string>龙蛋</string>
+	<key>bao_des_8</key>
+	<string>消消岛的大骑士需要拥
+有一只龙，这不可以作
+为食物！</string>
+	<key>bao_from_8</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_9</key>
+	<string>圣诞靴</string>
+	<key>bao_des_9</key>
+	<string>有一天圣诞老人，被挂
+在了树上…</string>
+	<key>bao_from_9</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_10</key>
+	<string>遗书</string>
+	<key>bao_des_10</key>
+	<string>“我再也受不了了”
+---圣诞老人</string>
+	<key>bao_from_10</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_11</key>
+	<string>圣诞淋液</string>
+	<key>bao_des_11</key>
+	<string>小女孩送给了你一瓶绿
+色的药水，当你转身
+后发现她不见了</string>
+	<key>bao_from_11</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_12</key>
+	<string>气球</string>
+	<key>bao_des_12</key>
+	<string>柏树女巫的气球，你感
+觉自己变轻了</string>
+	<key>bao_from_12</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_13</key>
+	<string>风筝</string>
+	<key>bao_des_13</key>
+	<string>你拾回了风筝，作为回
+报旅店老板的女儿给你
+留下了一些惊喜</string>
+	<key>bao_from_13</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_14</key>
+	<string>女巫的魔棒</string>
+	<key>bao_des_14</key>
+	<string>没了它~柏树女巫再也
+不能施展邪恶魔法了</string>
+	<key>bao_from_14</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_15</key>
+	<string>星星</string>
+	<key>bao_des_15</key>
+	<string>吧比你会唱小星星么？</string>
+	<key>bao_from_15</key>
+	<string>挂在树上第%d关</string>
+	<key>bao_name_16</key>
+	<string>金铲子</string>
+	<key>bao_des_16</key>
+	<string>向神秘洞穴出发！</string>
+	<key>bao_from_16</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_17</key>
+	<string>棒棒糖</string>
+	<key>bao_des_17</key>
+	<string>小女孩送你一个棒棒糖
+，害羞的跑了</string>
+	<key>bao_from_17</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_18</key>
+	<string>保险箱</string>
+	<key>bao_des_18</key>
+	<string>神秘的保险箱，你发
+现根本打不开</string>
+	<key>bao_from_18</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_19</key>
+	<string>抱枕</string>
+	<key>bao_des_19</key>
+	<string>村长心爱的漂亮抱枕</string>
+	<key>bao_from_19</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_20</key>
+	<string>村民的手杖</string>
+	<key>bao_des_20</key>
+	<string>长着带领的圣树修复
+队用过的手杖</string>
+	<key>bao_from_20</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_21</key>
+	<string>村长的坏表</string>
+	<key>bao_des_21</key>
+	<string>快去找村长换个新的&gt;.&lt;</string>
+	<key>bao_from_21</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_22</key>
+	<string>发光的叶子</string>
+	<key>bao_des_22</key>
+	<string>树屋老人送给你可制
+造氧气的叶子，可是哪
+里会用到氧气呢</string>
+	<key>bao_from_22</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_23</key>
+	<string>放大镜</string>
+	<key>bao_des_23</key>
+	<string>能看到岩体中的矿物含
+量</string>
+	<key>bao_from_23</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_24</key>
+	<string>肥皂</string>
+	<key>bao_des_24</key>
+	<string>你根本没有去捡，摇摇
+头转身离开了</string>
+	<key>bao_from_24</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_25</key>
+	<string>高亮电筒</string>
+	<key>bao_des_25</key>
+	<string>“我发现了其他探险
+者的踪迹”</string>
+	<key>bao_from_25</key>
+	<string>在海怪占领的区域</string>
+	<key>bao_name_26</key>
+	<string>工程帽</string>
+	<key>bao_des_26</key>
+	<string>探险者曾用过的工程
+帽</string>
+	<key>bao_from_26</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_27</key>
+	<string>怪花种子</string>
+	<key>bao_des_27</key>
+	<string>小小的种子大大的梦，
+快快长大守护村庄</string>
+	<key>bao_from_27</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_28</key>
+	<string>海盗的盾牌</string>
+	<key>bao_des_28</key>
+	<string>好像也被什么击飞了，
+防御效果很好</string>
+	<key>bao_from_28</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_29</key>
+	<string>婚戒</string>
+	<key>bao_des_29</key>
+	<string>旅店老板女儿遗弃的</string>
+	<key>bao_from_29</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_30</key>
+	<string>旅者背包</string>
+	<key>bao_des_30</key>
+	<string>从圣树上层掉下来的，
+上面发生了什么？</string>
+	<key>bao_from_30</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_31</key>
+	<string>绿林会员卡</string>
+	<key>bao_des_31</key>
+	<string>“绿林商店恭喜你购买
+道具享受5折先生！”
+但是已经过期了</string>
+	<key>bao_from_31</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_32</key>
+	<string>漂亮的睡衣</string>
+	<key>bao_des_32</key>
+	<string>主人会是谁呢</string>
+	<key>bao_from_32</key>
+	<string>在海怪占领的区域</string>
+	<key>bao_name_33</key>
+	<string>潜水镜</string>
+	<key>bao_des_33</key>
+	<string>向章鱼怪出发！</string>
+	<key>bao_from_33</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_34</key>
+	<string>生锈的硬币</string>
+	<key>bao_des_34</key>
+	<string>锈迹斑斑的硬币，已经
+不能使用了</string>
+	<key>bao_from_34</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_35</key>
+	<string>圣树果实</string>
+	<key>bao_des_35</key>
+	<string>曾经有个食物链顶端的
+男人说这是“终极求生
+食物”</string>
+	<key>bao_from_35</key>
+	<string>圣树关卡第%d关中出现</string>
+	<key>bao_name_36</key>
+	<string>十字架</string>
+	<key>bao_des_36</key>
+	<string>在沮丧时祈祷，但好像
+没什么用</string>
+	<key>bao_from_36</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_37</key>
+	<string>缩小帽</string>
+	<key>bao_des_37</key>
+	<string>会说话的帽子，只有勇
+士才能带的上</string>
+	<key>bao_from_37</key>
+	<string>在海怪占领的区域</string>
+	<key>bao_name_38</key>
+	<string>鱼叉</string>
+	<key>bao_des_38</key>
+	<string>消消岛勇士使用的武器</string>
+	<key>bao_from_38</key>
+	<string>在海怪占领的区域</string>
+	<key>bao_name_39</key>
+	<string>鱼籽蛋</string>
+	<key>bao_des_39</key>
+	<string>一包新鲜的鱼籽蛋，可
+食用</string>
+	<key>bao_from_39</key>
+	<string>在海怪占领的区域</string>
+	<key>bao_name_40</key>
+	<string>陨石</string>
+	<key>bao_des_40</key>
+	<string>也许这能说明，圣树也
+是天外来客</string>
+	<key>bao_from_40</key>
+	<string>在神秘洞穴深处</string>
+	<key>bao_name_41</key>
+	<string>ipad</string>
+	<key>bao_des_41</key>
+	<string>样品</string>
+	<key>bao_from_41</key>
+	<string>每日抽奖</string>
+	<key>bao_name_42</key>
+	<string>iphone</string>
+	<key>bao_des_42</key>
+	<string>样品</string>
+	<key>bao_from_42</key>
+	<string>每日抽奖</string>
+</dict>
+</plist>

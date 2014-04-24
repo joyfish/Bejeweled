@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tool_0</key>
+	<string>游戏时间增加20秒</string>
+	<key>tool_1</key>
+	<string>游戏步数增加5</string>
+	<key>tool_2</key>
+	<string>引爆宝石或击碎障碍</string>
+	<key>tool_3</key>
+	<string>重新排列宝石</string>
+	<key>tool_4</key>
+	<string>使目标宝石变成特效宝石</string>
+	<key>tool_5</key>
+	<string>游戏分数获得增加5%</string>
+	<key>lock_stage</key>
+	<string>第%d关</string>
+</dict>
+</plist>

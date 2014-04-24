@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name_0</key>
+	<string>1000金币</string>
+	<key>name_1</key>
+	<string>2500金币</string>
+	<key>name_2</key>
+	<string>5000金币</string>
+	<key>name_3</key>
+	<string>14500金币</string>
+	<key>name_4</key>
+	<string>挑战卷</string>
+	<key>name_5</key>
+	<string>挑战卷</string>
+	<key>name_6</key>
+	<string>精力值</string>
+	<key>name_7</key>
+	<string>精力拓展卷</string>
+	<key>des_0</key>
+	<string></string>
+	<key>des_1</key>
+	<string>送500金币</string>
+	<key>des_2</key>
+	<string>送2000金币</string>
+	<key>des_3</key>
+	<string>送10000金币</string>
+	<key>des_4</key>
+	<string>1张勇气卷</string>
+	<key>des_5</key>
+	<string>3张勇气卷</string>
+	<key>des_6</key>
+	<string>补满精力值</string>
+	<key>des_7</key>
+	<string>精力上限+3</string>
+	<key>icon_0</key>
+	<string>icons/icon_good_1.png</string>
+	<key>icon_1</key>
+	<string>icons/icon_good_1.png</string>
+	<key>icon_2</key>
+	<string>icons/icon_good_1.png</string>
+	<key>icon_3</key>
+	<string>icons/icon_good_1.png</string>
+	<key>icon_4</key>
+	<string>icons/icon_good_2.png</string>
+	<key>icon_5</key>
+	<string>icons/icon_good_2.png</string>
+	<key>icon_6</key>
+	<string>icons/icon_good_0.png</string>
+	<key>icon_7</key>
+	<string>icons/icon_good_3.png</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>quick_0</key>
+	<string>购买%d金币</string>
+	<key>quick_1</key>
+	<string>补满精力值</string>
+	<key>quick_2</key>
+	<string>购买%d张勇气卷</string>
+	<key>quick_3</key>
+	<string>精力值上限+3
+补满精力值</string>
+</dict>
+</plist>

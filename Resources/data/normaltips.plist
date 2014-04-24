@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frist_load</key>
+	<string>正在加载游戏配置 精彩马上就来</string>
+	<key>game_start_time_target</key>
+	<string>限定时间内消除目标</string>
+	<key>game_start_step_target</key>
+	<string>限定步数内消除目标</string>
+	<key>game_start_lock_des</key>
+	<string>%d关开启</string>
+	<key>game_end_des_time</key>
+	<string>时间用完了，加10秒接着玩？</string>
+	<key>game_end_des_step</key>
+	<string>步数用完了，加5步接着玩？</string>
+	<key>game_end_tool_time</key>
+	<string>道具：时间+10秒</string>
+	<key>game_end_tool_step</key>
+	<string>道具：步数+5</string>
+	<key>tips_0</key>
+	<string>您的精力值已达上限。
+不能继续购买！</string>
+	<key>tips_1</key>
+	<string>您的精力值已满</string>
+	<key>tips_2</key>
+	<string>星星道具使用成功</string>
+	<key>tips_3</key>
+	<string>暂未开放，敬请期待!!</string>
+	<key>tips_4</key>
+	<string>获得星星不足~
+取得更好的成绩再来
+突破吧！</string>
+	<key>tips_5</key>
+	<string>待开启，
+更多精彩敬请期待！</string>
+	<key>tips_6</key>
+	<string>该宝藏在第%d关开启</string>
+	<key>turntable_reward_0</key>
+	<string>恭喜你：挑战卷+99</string>
+	<key>turntable_reward_1</key>
+	<string>恭喜你：获得宝藏 金币+2500</string>
+	<key>turntable_reward_2</key>
+	<string>恭喜你：锤子道具+5</string>
+	<key>turntable_reward_3</key>
+	<string>恭喜你：金币+1000</string>
+	<key>turntable_reward_4</key>
+	<string>恭喜你：换位道具+5</string>
+	<key>turntable_reward_5</key>
+	<string>恭喜你：获得宝藏 金币+2500</string>
+	<key>turntable_reward_6</key>
+	<string>恭喜你：步数道具+5</string>
+	<key>turntable_reward_7</key>
+	<string>恭喜你：金币+2000</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reward_0</key>
+	<string>+%d金币</string>
+	<key>reward_1</key>
+	<string>+%d精力值</string>
+	<key>reward_2</key>
+	<string>+%d个闹钟</string>
+	<key>reward_3</key>
+	<string>+%d个增步器</string>
+	<key>reward_4</key>
+	<string>+%d个锤子</string>
+	<key>reward_5</key>
+	<string>+%d个换位仪</string>
+	<key>reward_6</key>
+	<string>+%d个点金棒</string>
+	<key>reward_7</key>
+	<string>+%d个星星</string>
+	<key>reward_8</key>
+	<string>+%d张勇气卷</string>
+	<key>reward_9</key>
+	<string>+%d精力上限</string>
+	<key>reward_max</key>
+	<string>精力值满</string>
+</dict>
+</plist>

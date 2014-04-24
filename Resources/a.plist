@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>k0</key>
+	<string>30000824945904</string>
+	<key>k1</key>
+	<string>30000824945903</string>
+	<key>k2</key>
+	<string>30000824945902</string>
+	<key>k3</key>
+	<string>30000824945901</string>
+	<key>k4</key>
+	<string>30000824945906</string>
+	<key>k5</key>
+	<string>30000824945905</string>
+	<key>k6</key>
+	<string>30000824945907</string>
+	<key>k7</key>
+	<string>30000824945908</string>
+	<key>k8</key>
+	<string>30000824945909</string>
+	<key>k9</key>
+	<string>30000824945910</string>
+	<key>q0</key>
+	<string>30000824945901</string>
+	<key>q1</key>
+	<string>30000824945903</string>
+	<key>q2</key>
+	<string>30000824945907</string>
+	<key>q3</key>
+	<string>30000824945908</string>
+	<key>v0</key>
+	<string>200</string>
+	<key>v1</key>
+	<string>500</string>
+	<key>v2</key>
+	<string>1000</string>
+	<key>v3</key>
+	<string>3000</string>
+	<key>v4</key>
+	<string>200</string>
+	<key>v5</key>
+	<string>500</string>
+	<key>v6</key>
+	<string>500</string>
+	<key>v7</key>
+	<string>3000</string>
+	<key>v8</key>
+	<string>1500</string>
+	<key>v9</key>
+	<string>3000</string>
+	<key>qv0</key>
+	<string>3000</string>
+	<key>qv1</key>
+	<string>500</string>
+	<key>qv2</key>
+	<string>500</string>
+	<key>qv3</key>
+	<string>3000</string>
+</dict>
+</plist>
